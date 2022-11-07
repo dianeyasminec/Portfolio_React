@@ -15,7 +15,7 @@ interests} = props
 
   return (
     <div id='about'>
-      <h2  className='text-center  text-light display-5 py-5 '>
+      <h2  className='text-center  text-light display-5 py-4'>
          About
           </h2>
        <div className='container-fluid '>

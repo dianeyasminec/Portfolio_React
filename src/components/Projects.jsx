@@ -15,14 +15,17 @@ export default function Projects (props) {
      <div className='container-fluid'>
           
       
-        <h2  className='text-center  text-light display-5 py-5 '>
+        <h2  className='text-center  text-light display-5 py-5'>
           Projects
           </h2>
           <div className='container '>
             <div className='row'>
               {projects.map((p,index) =>{
                 return(
-                  <CardResume name={p.name} language={p.language} description={p.description} link={p.link}/>
+                  <CardResume name={p.name} 
+                  language={p.language} 
+                  description={p.description} 
+                  link={p.link}/>
                 )
               })}
               </div>

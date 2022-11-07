@@ -87,30 +87,30 @@ const user = {
           "name":"E-commerce",
           "language":"React.js and Boostrap",
           "description":"Created an E-commerce application from scratch that displays a list of soaps from a db.json file. Users are able to add to the cart, delete from the cart, and update the total price by increasing/decreasing the number of items. ",
-          "link": "https://tinyurl.com/s3uv82ye"
+          "link": "https://e-commerce-with-react-js.vercel.app"
         },
         {
           "title": "Project 2",
-          "name":"Genius Song App ",
+          "name":"Lyrics Generator App ",
           "language":"React.js and Boostrap",
-          "description":"Developed a song lyrics app that allows users to search through a fetch API for any artist to then display 10 of the design artist‘s most popular songs. Routers are integrated into the application to facilitate the navigation between the components",
-          "link": "https://tinyurl.com/28zv4jdj"
+          "description":"Developed a song lyrics app that allows users to search through a fetch API for any artist to then display 10 of the design artist's most popular songs. Routers are integrated into the application to facilitate the navigation between the components",
+          "link": "https://lyrics-generator-react.vercel.app/"
         },
         {
           "title": "Project 3",
-          "name":"Blog ",
+          "name":"Chimamanda Ngozi Adichie Bio",
           "language":"React.js and Boostrap",  
-          "description":"Built a blog application where users can reference the best books they read and would recommend to others. The application is entirely built with react using the Json server to display two articles on the home page and allow users to add or delete an article. ",
-          "link": "https://github.com/dianeyasminec/my_blog"
+          "description":"Single page application built entirely with react.js and Bootstrap 5. Bio on author Chimamanda Ngozi Adichie and her popular books. ",
+          "link": "https://chimamanda-ngozi-adichie.vercel.app/"
         }
-        ,
-        {
-          "title": "Project 4",
-          "name":"Login Page APP ",
-          "language":"React.js and Boostrap",  
-          "description":"Book Blog application",
-          "link": "https://github.com/dianeyasminec/my_blog"
-        }
+        // ,
+        // {
+        //   "title": "Project 4",
+        //   "name":"Login Page APP ",
+        //   "language":"React.js and Boostrap",  
+        //   "description":"Book Blog application",
+        //   "link": "https://github.com/dianeyasminec/my_blog"
+        // }
       ],
 }
 

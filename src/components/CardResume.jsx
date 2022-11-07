@@ -11,16 +11,19 @@ export default function CardResume(props) {
 
   return (
     <>
-    <div className='col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3 '>
-      <div className='card h-80 shadow rounded'>
+    <div className='col-lg-4 col-md-6 col-sm-12 col-xl-4 col-xxl-4  '>
+      <div className='card h-10 shadow rounded'>
         <div className='card-body text-light lead'>
-     <div className='d-flex justify-content-between '>
+     <div className='d-flex justify-content-evenly '>
    <h3 className='card-title  text-light' >{name}</h3>
    </div>
    <p  className='card-text  text-light'>{language}</p>
    <p className=''>{description}</p>
-   <div className='d-grid justify-content-end mt-4'>
-    <Button href={link}variant="outline-light lead">Link</Button>
+   <div className='d-grid justify-content-end mt-'>
+    <Button 
+    href={link}
+    target="_blank" rel="noopener noreferrer"
+    variant="outline-light lead">Link</Button>
    </div>
 
   </div>

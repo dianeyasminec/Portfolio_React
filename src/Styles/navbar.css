@@ -15,7 +15,7 @@ p {
 nav {
   position: fixed;
   top: 0;
-  left: 70%;
+  left: 0%;
   right: 0;
 }
 
@@ -51,19 +51,19 @@ nav a:active {
   padding: 1rem;
 }
 
-#about img {
+/* #about img {
   max-height: 50%;
-}
+} */
 
 #projects {
-
-  min-height: 400px;
+margin-top:40px;
+  min-height: 550px;
 }
 
 #about {
   
   height: 20vh;
-  min-height: 600px;
+  min-height: 570px;
 }
 
   
