@@ -93,14 +93,14 @@ const user = {
           "title": "Project 2",
           "name":"Lyrics Generator App ",
           "language":"React.js and Boostrap",
-          "description":"Developed a song lyrics app that allows users to search through a fetch API for any artist to then display 10 of the design artist's most popular songs. Routers are integrated into the application to facilitate the navigation between the components",
+          "description":"Developed a song lyrics app that allows users to search through a fetch API for any artist, then display 10 popular songs of the artist. Routers are integrated into the application to facilitate the navigation between the components.",
           "link": "https://lyrics-generator-react.vercel.app/"
         },
         {
           "title": "Project 3",
           "name":"Chimamanda Ngozi Adichie Bio",
           "language":"React.js and Boostrap",  
-          "description":"Single page application built entirely with react.js and Bootstrap 5. Bio on author Chimamanda Ngozi Adichie and her popular books. ",
+          "description":"Single page application built entirely with react.js and Bootstrap 5. Biography of author Chimamanda Ngozi Adichie and her popular books. ",
           "link": "https://chimamanda-ngozi-adichie.vercel.app/"
         }
         // ,
