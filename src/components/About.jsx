@@ -18,7 +18,7 @@ interests} = props
       <h2  className='text-center  text-light display-5 py-4'>
          About
           </h2>
-       <div className='container-fluid col-lg-12 col-md-12 col-sm-12 '>
+       <div className='container-fluid col-lg-12 col-md-12 col-sm-4 '>
     <div className="d-flex justify-content-evenly">
       <div className='skills  '> 
         <h2 className=" text-center text-light ">
