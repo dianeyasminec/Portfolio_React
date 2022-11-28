@@ -18,9 +18,11 @@ interests} = props
       <h2  className='text-center  text-light display-5 py-4'>
          About
           </h2>
-       <div className='container-fluid col-lg-12 col-md-12 col-sm-4 col-xs-4 '>
+       <div className='container-fluid  '>
+        <div className='row'>
+          <div className='col-lg-12 col-md-10 col-sm-12 col-xs-10  '>
     <div className="d-flex justify-content-evenly">
-      <div className='skills  '> 
+      <div className='skills  card h-10 shadow rounded '> 
         <h2 className=" text-center text-light ">
         Technical skills
           </h2>
@@ -45,7 +47,7 @@ interests} = props
 
       {/* here */}
 
-      <div className='  '> 
+      <div className=' card h-10 shadow rounded '> 
         <h2 className=" text-center text-light">
         Professional skills
           </h2>
@@ -70,7 +72,7 @@ interests} = props
 
       {/* here 3 */}
 
-      <div className='  '> 
+      <div className='card h-10 shadow rounded  '> 
         <h2 className=" text-center text-light">
         Interests
           </h2>
@@ -101,6 +103,8 @@ interests} = props
 
      </div>
      </div>
+    </div>
+    </div>
     </div>
   )
 }
