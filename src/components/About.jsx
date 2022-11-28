@@ -20,7 +20,7 @@ interests} = props
           </h2>
        <div className='container-fluid  '>
         <div className='row'>
-          <div className='col-lg-12 col-md-10 col-sm-12 col-xs-10  '>
+          <div className='col-lg-12 col-md-12 col-sm-12 col-xs-10  '>
     <div className="d-flex justify-content-evenly">
       <div className='skills  card h-10 shadow rounded '> 
         <h2 className=" text-center text-light ">
