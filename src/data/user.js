@@ -100,7 +100,7 @@ const user = {
           "title": "Project 3",
           "name":"Chimamanda Ngozi Adichie Bio",
           "language":"React.js and Boostrap",  
-          "description":"Single page application built entirely with react.js and Bootstrap 5. Biography of author Chimamanda Ngozi Adichie and her popular books. ",
+          "description":"Design a visually appealing one-page website using React and Bootstrap to showcase the biography of author Chimamanda Ngozi Adichie and her renowned books, while implementing a JavaScript function to display the content. ",
           "link": "https://chimamanda-ngozi-adichie.vercel.app/"
         }
         // ,
